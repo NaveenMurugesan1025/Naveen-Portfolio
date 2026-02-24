@@ -4,7 +4,7 @@ A personal portfolio website built with React.
 
 ## Features
 
-- Professional hero section with profile image
+- Professional section with profile image
 - About, Skills, Projects, and Contact sections
 - Resume download button
 - Responsive layout
